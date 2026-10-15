@@ -1,4 +1,4 @@
-### Hi, I'm Nicolás 👋
+### Hi, I'm Nicolas 👋
 
 Full-stack engineer (TypeScript · Next.js · NestJS · PostgreSQL) based in Argentina, working remotely in English, Spanish and Italian.
 I build business systems end to end — data modeling, legacy migrations, auth and permissions, APIs, UI, tests and production deploys.
