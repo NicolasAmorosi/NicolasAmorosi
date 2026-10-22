@@ -3,6 +3,8 @@
 Full-stack engineer (TypeScript · Next.js · NestJS · PostgreSQL) based in Argentina, working remotely in English, Spanish and Italian.
 I build business systems end to end — data modeling, legacy migrations, auth and permissions, APIs, UI, tests and production deploys.
 
+**Education:** Ingeniero en Sistemas (Systems Engineering degree, 2024) and Analista en Sistemas (2022) — Universidad Adventista del Plata.
+
 🌐 **[nicolasamorosi.com](https://nicolasamorosi.com)** — case studies of the work below, in English and Spanish.
 
 **What I've been building lately** (client code is private — the [case studies](https://nicolasamorosi.com) explain the problems and decisions, and I'm happy to walk through any of it in an interview):
